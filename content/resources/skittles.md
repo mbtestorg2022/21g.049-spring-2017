@@ -14,6 +14,7 @@ image_metadata:
   credit: 'This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reims_place_Drouet_d%27Erlon_d%C3%A9but_1917.jpg).'
   image-alt: A group of four boys playing with multicolored wooden toys on a cobblestone
     street amidst rubble.
+parent_uid: c08f7a8f-d308-1cdb-99c9-b52909e1fbea
 resourcetype: Image
 title: Children Playing Skittles
 uid: d5a2ba7d-57f9-98a4-fd36-431b91246bb8

@@ -9,6 +9,7 @@ image_metadata:
     in 1858.
   credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fading_Away.jpg).'
   image-alt: A young woman reclining in her death bed surrounded by her family.
+parent_uid: a80fc33d-083f-3b5e-e553-a951bacee641
 resourcetype: Image
 title: Fading_Away.jpg
 uid: 317466f8-5673-f8e9-3789-431ad2ee1a35

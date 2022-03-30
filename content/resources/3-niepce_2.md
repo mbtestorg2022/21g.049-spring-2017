@@ -9,6 +9,7 @@ image_metadata:
     \ Gras.\""
   credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce#/media/File:View_from_the_Window_at_Le_Gras,_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg).'
   image-alt: The courtyard at Le Gras from an upstairs window.
+parent_uid: 3c45e491-599e-24a6-2f95-5e1517238299
 resourcetype: Image
 title: Enhanced Version of View from the Window at Le Gras
 uid: b106a5f8-545d-075e-7334-07e2193c40ea

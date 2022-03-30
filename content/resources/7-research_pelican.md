@@ -8,6 +8,7 @@ image_metadata:
   caption: "Composite photo of a pelican in flight by \xC9tienne-Jules Marey, c. 1880s."
   credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg).'
   image-alt: Twelve consecutive images of a pelican landing.
+parent_uid: 2c972b73-d33f-d58f-7979-9a457a51f7ca
 resourcetype: Image
 title: Pelican in Flight
 uid: ed7547bd-47ee-a4e6-e0ff-972cbfb18e7c
